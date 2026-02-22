@@ -1,0 +1,27 @@
+{
+  "name": "qa-case",
+  "version": "1.0.0",
+  "description": "Este repositório contém a solução do desafio técnico de QA, dividido em duas partes:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CafeAtomico/qa-case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CafeAtomico/qa-case/issues"
+  },
+  "homepage": "https://github.com/CafeAtomico/qa-case#readme",
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
